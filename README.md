@@ -1,5 +1,5 @@
 ### EXP NO: 01
-### DATE: 
+### DATE: 1/4/22
 # <p align="center"> RANDOM CLASSIFICATION</p>
 ## AIM:
 To write a python program to perform random classification.
